@@ -1,0 +1,7 @@
+[package]
+name = "doom_fire_fx"
+version = "0.1.0"
+authors = ["Darren <darren.daley@hotmail.co.uk>"]
+edition = "2018"
+
+[dependencies]
